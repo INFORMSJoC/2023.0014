@@ -41,7 +41,8 @@ numpy
 pandas
 haversine
 networkx
-gurobi 
+gitpython
+gurobipy (need gurobi installed)
 ```
 
 ## Results
