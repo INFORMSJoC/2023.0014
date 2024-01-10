@@ -35,13 +35,33 @@ Below is the BibTex for citing this snapshot of the respoitory.
 The goal of this software is to showcase the utilization of the P-PATH model for designing On-demand Multimodal Transit Systems with Adoption Awareness.
 
 ## Building
-
+Required Python Packages and Commercial Solvers:
+```
+numpy
+pandas
+haversine
+networkx
+gurobi 
+```
 
 ## Results
-
+Result will be generated in the following two directories:
+```
+test_case/preprocessed
+test_case/result
+```
+Some results run by the authors are kept here:
+```
+test_case/result_authors
+```
 
 ## Replicating
 
+Example Run:
+```
+python main_run_test.py --s_dir_and_path_input_yaml_path test_case/dirs_and_paths.yaml --s_par_yaml_path test_case/settings.yaml --other_parameters...
+```
+settings.yaml can be empty. Please take note that the priorities lie within the parameters specified in settings.yaml.
 
 ## Ongoing Development
 
