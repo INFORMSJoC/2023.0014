@@ -52,16 +52,25 @@ test_case/result
 ```
 Some results run by the authors are kept here:
 ```
-test_case/result_authors
+test_case/result_summary_authors
 ```
 
 ## Replicating
 
 Example Run:
 ```
-python main_run_test.py --s_dir_and_path_input_yaml_path test_case/dirs_and_paths.yaml --s_par_yaml_path test_case/settings.yaml --other_parameters...
+python main_run_test.py --s_dir_and_path_input_yaml_path test_case/dirs_and_paths.yaml --s_par_yaml_path test_case/settings.yaml --b_recreate_haversine_matrix True
 ```
-settings.yaml can be empty. Please take note that the priorities lie within the parameters specified in settings.yaml.
+settings.yaml can be empty. 
+
+Please take note that the priorities lie within the parameters specified in settings.yaml. 
+
+If a parameters is not specified in settings.yaml, please use **--parameter value** method.
+
+If you already have **dist_km.pickle** and **time_min.pickle** in **test_case/data** folder, then simply run:
+```
+python main_run_test.py --s_dir_and_path_input_yaml_path test_case/dirs_and_paths.yaml --s_par_yaml_path test_case/settings.yaml
+```
 
 ## Ongoing Development
 

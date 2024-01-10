@@ -1,0 +1,10 @@
+# ==================== Raw Data ==================== #
+s_raw_data_dir: test_case/data
+
+
+# ==================== Preprocessed ==================== #
+s_overall_prepare_result_dir: test_case/preprocessed
+
+
+# ==================== P-PATH Results ==================== #
+s_overall_result_dir: test_case/result

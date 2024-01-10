@@ -1,0 +1,27 @@
+# ==================== General ==================== #
+f_horizon_start_hour: 18
+f_horizon_end_hour: 22
+f_convex_theta: 0.001
+l_modes: ['shuttle', 'bus', 'drive']
+s_time_unit_in_obj: 'second'
+
+
+# ==================== Backbone ==================== #
+# N/A
+
+# ==================== New Bus ==================== #
+s_bus_cost_version: 'distance'
+f_bus_cost_per_km: 3.38
+t_bus_frequencies: [4]
+
+# ==================== Connection ==================== #
+s_connect_mode: 'shuttle'
+s_shuttle_cost_version: 'distance'
+f_shuttle_cost_per_km: 1
+b_shuttle_allow_h2h: False
+
+# ==================== Passenger ==================== #
+i_max_transfer: -1
+b_has_demographic_data: True
+f_base_ticket_fare: 2.5
+i_pax_multip: 2 # doubled ridership is ensured here
