@@ -1,0 +1,39 @@
+[
+    {
+        "var_name": "--b_use_backbone_ub_to_filter",
+        "default_val": true,
+        "required": false,
+        "nargs": "?",
+        "comment": "Nomrally we should apply this, but in some cases, we need to compare with the original approach, then we set it to false."
+    },
+    {
+        "var_name": "--b_shuttle_allow_h2h",
+        "default_val": true,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_shuttle_cost_per_km",
+        "default_val": 1.0,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_shuttle_cost_per_hour",
+        "default_val": 100,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--s_shuttle_cost_version",
+        "default_val": "distance",
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_shuttle_wait_min",
+        "default_val": 0.0,
+        "required": false,
+        "nargs": "?"
+    }
+]

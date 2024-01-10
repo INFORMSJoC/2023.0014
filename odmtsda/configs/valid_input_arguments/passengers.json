@@ -1,0 +1,29 @@
+[
+    {
+        "var_name": "--b_has_demographic_data",
+        "default_val": false,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--i_pax_multip",
+        "default_val": 1,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_base_ticket_fare",
+        "default_val": 2.5,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--i_choice_model_type",
+        "default_val": 0,
+        "required": false,
+        "nargs": "?",
+        "choices": {
+            "0": "compare time with factor"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "var_name": "--i_backbone_wait_method",
+        "default_val": 1,
+        "required": false,
+        "nargs": "?",
+        "choices": {
+            "0" : "no need to wait",
+            "1" : "regular average wait based on frequency"
+        }
+    }
+]
