@@ -35,15 +35,8 @@ Below is the BibTex for citing this snapshot of the respoitory.
 The goal of this software is to showcase the utilization of the P-PATH model for designing On-demand Multimodal Transit Systems with Adoption Awareness.
 
 ## Building
-Required Python Packages and Commercial Solvers:
-```
-numpy
-pandas
-haversine
-networkx
-gitpython
-gurobipy (need gurobi installed)
-```
+Please see **requirements.txt** and install the Python packages. The package versions are the ones used by the authors in January, 2024.
+The commercial solver [GUROBI](https://www.gurobi.com/) is required. 
 
 ## Results
 Result will be generated in the following two directories:
@@ -73,9 +66,6 @@ If you already have **dist_km.pickle** and **time_min.pickle** in **test_case/da
 python main_run_test.py --s_dir_and_path_input_yaml_path test_case/dirs_and_paths.yaml --s_par_yaml_path test_case/settings.yaml
 ```
 
-## Ongoing Development
-
-N/A
 
 ## Support
 
