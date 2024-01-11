@@ -36,7 +36,7 @@ The goal of this software is to showcase the utilization of the P-PATH model for
 
 ## Building
 Please see **requirements.txt** and install the Python packages. The package versions are the ones used by the authors in January, 2024.
-The commercial solver [GUROBI](https://www.gurobi.com/) is required. 
+The commercial solver [Gurobi](https://www.gurobi.com/) is required. 
 
 ## Results
 Result will be generated in the following two directories:
