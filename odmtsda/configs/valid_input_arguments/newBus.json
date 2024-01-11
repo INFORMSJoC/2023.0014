@@ -1,0 +1,72 @@
+[
+
+    {
+        "var_name": "--b_design_new_bus_arc",
+        "default_val": true,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--t_bus_frequencies",
+        "default_val": [6],
+        "required": false,
+        "nargs": "+"
+    },
+    {
+        "var_name": "--i_bus_wait_method",
+        "default_val": 1,
+        "required": false,
+        "nargs": "?",
+        "choices": {
+            "0" : "no wait",
+            "1" : "regular average wait based on frequency"
+        }
+    },
+    {
+        "var_name": "--s_bus_cost_version",
+        "default_val": "time",
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_bus_cost_per_km",
+        "default_val": 1.0,
+        "required": false,
+        "nargs": "?",
+        "comment": "This only appear when s_bus_cost_version = distance"
+    },
+    {
+        "var_name": "--f_bus_cost_per_hour",
+        "default_val": 72.15,
+        "required": false,
+        "nargs": "?",
+        "comment": "This only appear when s_bus_cost_version = time"
+    },
+    {
+        "var_name": "--b_allow_bus_backbone_overlap",
+        "default_val": true,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_bus_line_connect_rail_hubs_least_min",
+        "default_val": 0,
+        "required": false,
+        "nargs": "?",
+        "comment": "Some times we want to connect two rail hubs with a bus lines. But we don't want to take the rail's market. Thus, if bus travel time < this value, we don't consider this bus arc."
+    },
+    {
+        "var_name": "--i_bus_bus_connect_lim",
+        "default_val": -1,
+        "required": false,
+        "comment": "rank by travel time, -1 = unlimited",
+        "nargs": "?"
+    },
+    {
+        "var_name": "--i_bus_rail_connect_lim",
+        "default_val": -1,
+        "required": false,
+        "nargs": "?"
+    }
+
+]

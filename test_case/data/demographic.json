@@ -1,0 +1,2832 @@
+{
+    "l0": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l1": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l2": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l3": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l4": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l5": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l6": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l7": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l8": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l9": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l10": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l11": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l12": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l13": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l14": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l15": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l16": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l17": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l18": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l19": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l20": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l21": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l22": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l23": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l24": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l25": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l26": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l27": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l28": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l29": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l30": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l31": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l32": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l33": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l34": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l35": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l36": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l37": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l38": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l39": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l40": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l41": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l42": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l43": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l44": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l45": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l46": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l47": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l48": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l49": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l50": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l51": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l52": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l53": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l54": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l55": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l56": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l57": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l58": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l59": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l60": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l61": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l62": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l63": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l64": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l65": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l66": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l67": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l68": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l69": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l70": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l71": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l72": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l73": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l74": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l75": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l76": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l77": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l78": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l79": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l80": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l81": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l82": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l83": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l84": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l85": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l86": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l87": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l88": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l89": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l90": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l91": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l92": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l93": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l94": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l95": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l96": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l97": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l98": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l99": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l100": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l101": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l102": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l103": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l104": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l105": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l106": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l107": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l108": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l109": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l110": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l111": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l112": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l113": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l114": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l115": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l116": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l117": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l118": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l119": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l120": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l121": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l122": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l123": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l124": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l125": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l126": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l127": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l128": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l129": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l130": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l131": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l132": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l133": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l134": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l135": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l136": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l137": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l138": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l139": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l140": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l141": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l142": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l143": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l144": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l145": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l146": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l147": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l148": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l149": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l150": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l151": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l152": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l153": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l154": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l155": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l156": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l157": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l158": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l159": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l160": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l161": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l162": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l163": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l164": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l165": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l166": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l167": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l168": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l169": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l170": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l171": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l172": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l173": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l174": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l175": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l176": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l177": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l178": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l179": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l180": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l181": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l182": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l183": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l184": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l185": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l186": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l187": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l188": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l189": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l190": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l191": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l192": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l193": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l194": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l195": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l196": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l197": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l198": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l199": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l200": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l201": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l202": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l203": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l204": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l205": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l206": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l207": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l208": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l209": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l210": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l211": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l212": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l213": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l214": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l215": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l216": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l217": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l218": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l219": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l220": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l221": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l222": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l223": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l224": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l225": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l226": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l227": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l228": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l229": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l230": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l231": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l232": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l233": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l234": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l235": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l236": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l237": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l238": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l239": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l240": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l241": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l242": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l243": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l244": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l245": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l246": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l247": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l248": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l249": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l250": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l251": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l252": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l253": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l254": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l255": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l256": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l257": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l258": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l259": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l260": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l261": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l262": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l263": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l264": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l265": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l266": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l267": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l268": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l269": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l270": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l271": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l272": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l273": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l274": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l275": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l276": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l277": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l278": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l279": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l280": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l281": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l282": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l283": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l284": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l285": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l286": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l287": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l288": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l289": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l290": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l291": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l292": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l293": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l294": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l295": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l296": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l297": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l298": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l299": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l300": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l301": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l302": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l303": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l304": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l305": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l306": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l307": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l308": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l309": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l310": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l311": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l312": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l313": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l314": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l315": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l316": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l317": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l318": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l319": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l320": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l321": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l322": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l323": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l324": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l325": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l326": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l327": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l328": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l329": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l330": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l331": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l332": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l333": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l334": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l335": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l336": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l337": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l338": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l339": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l340": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l341": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l342": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l343": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l344": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l345": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l346": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l347": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l348": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l349": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l350": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l351": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l352": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l353": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l354": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l355": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l356": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l357": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l358": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l359": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l360": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l361": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l362": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l363": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l364": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l365": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l366": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l367": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l368": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l369": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l370": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l371": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l372": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l373": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l374": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l375": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l376": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l377": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l378": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l379": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l380": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l381": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l382": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l383": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l384": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l385": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l386": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l387": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l388": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l389": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l390": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l391": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l392": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l393": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l394": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l395": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l396": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l397": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l398": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l399": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l400": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l401": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l402": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l403": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l404": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l405": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l406": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l407": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l408": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l409": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l410": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l411": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l412": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l413": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l414": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l415": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l416": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l417": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l418": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l419": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l420": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l421": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l422": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l423": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l424": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l425": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l426": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l427": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l428": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l429": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l430": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l431": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l432": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l433": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l434": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l435": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l436": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l437": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l438": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l439": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l440": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l441": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l442": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l443": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l444": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l445": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l446": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l447": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l448": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l449": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l450": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l451": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l452": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l453": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l454": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l455": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l456": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l457": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l458": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l459": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l460": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l461": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l462": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l463": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l464": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l465": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l466": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l467": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l468": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l469": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l470": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l471": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l472": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l473": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l474": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l475": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l476": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l477": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l478": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l479": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l480": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l481": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l482": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l483": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l484": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l485": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l486": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l487": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l488": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l489": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l490": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l491": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l492": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l493": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l494": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l495": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l496": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l497": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l498": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l499": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l500": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l501": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l502": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l503": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l504": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l505": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l506": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l507": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l508": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l509": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l510": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l511": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l512": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l513": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l514": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l515": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l516": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l517": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l518": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l519": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l520": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l521": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l522": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l523": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l524": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l525": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l526": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l527": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l528": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l529": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l530": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l531": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l532": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l533": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l534": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l535": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l536": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l537": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l538": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l539": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l540": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l541": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l542": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l543": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l544": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l545": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l546": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l547": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l548": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l549": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l550": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l551": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l552": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l553": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l554": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l555": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l556": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l557": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l558": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l559": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l560": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l561": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l562": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l563": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    },
+    "l564": {
+        "income_level": 2,
+        "adoption_factor": 1.5,
+        "transfer_tolerance": -1
+    },
+    "l565": {
+        "income_level": 1,
+        "adoption_factor": 2,
+        "transfer_tolerance": -1
+    }
+}

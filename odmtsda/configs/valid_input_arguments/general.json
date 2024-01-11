@@ -1,0 +1,88 @@
+[
+    {
+        "var_name": "--s_dir_and_path_input_yaml_path",
+        "default_val": "",
+        "required": true,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--s_par_yaml_path",
+        "default_val": "",
+        "required": true,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--computer_time_record_unit",
+        "default_val": "hours",
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--b_recreate_haversine_matrix",
+        "default_val": true,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_dummy_speed",
+        "default_val": 0.5,
+        "required": false,
+        "nargs": "?",
+        "comments": "0.5 km / min"
+    },
+    {
+        "var_name": "--f_mip_numer_protect",
+        "default_val": 0.1,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_substract_epsilon",
+        "default_val": 0.000001,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_convex_theta",
+        "default_val": 0.1,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--s_time_unit_in_obj",
+        "default_val": "minute",
+        "required": false,
+        "nargs": "?",
+        "comment": "can only be minute or second"
+    },
+    {
+        "var_name": "--f_horizon_start_hour",
+        "default_val": 6,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_horizon_end_hour",
+        "default_val": 10,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--f_1_mile_to_km",
+        "default_val": 1.60934,
+        "required": false,
+        "nargs": "?"
+    },
+    {
+        "var_name": "--l_modes",
+        "default_val": ["shuttle", "bus", "backbone", "drive"],
+        "required": false,
+        "nargs": "+",
+        "choices": [
+            "shuttle",
+            "bus -- this is the new bus, not in metro",
+            "backbone",
+            "drive"
+        ]
+    }
+]
